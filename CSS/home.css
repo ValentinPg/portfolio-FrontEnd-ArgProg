@@ -38,3 +38,13 @@ body{
 .card-body{
     padding-top: 1cm;
 }
+
+
+#imagen-perfil{
+    max-width: 5cm;
+    max-height: 5cm;
+    padding-top: 0cm;
+    
+}
+
+

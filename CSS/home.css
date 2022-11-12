@@ -9,3 +9,14 @@ h1{
     font-family: 'Staatliches';
     font-size: larger;
 }
+
+body{
+    background-image: url("/CSS/img/fondo.jpg");
+}
+
+.imagen-perfil{
+    min-width: 6cm;
+    min-height: 6cm;
+    max-width: 6cm;
+    max-height: 6cm;
+}

@@ -22,8 +22,9 @@ body{
 }
 
 .card{
-    max-width: 50cm;
+    max-width: 45cm;
     max-height: 50cm;
+    
     min-width: 43cm;
     
 }

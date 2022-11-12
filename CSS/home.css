@@ -16,7 +16,7 @@ body{
 
 .imagen-perfil{
     min-width: 6cm;
-    min-height: 6cm;
+
     max-width: 6cm;
     max-height: 6cm;
 }
@@ -25,7 +25,7 @@ body{
     max-width: 45cm;
     max-height: 50cm;
     
-    min-width: 43cm;
+    
     
 }
 

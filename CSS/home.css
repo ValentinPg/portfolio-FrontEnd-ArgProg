@@ -14,12 +14,7 @@ body{
     background-image: url("/CSS/img/fondo.jpg");
 }
 
-.imagen-perfil{
-    min-width: 6cm;
 
-    max-width: 6cm;
-    max-height: 6cm;
-}
 
 .card{
     max-width: 45cm;
@@ -29,11 +24,6 @@ body{
     
 }
 
-.card-img-overlay{
-    max-height: 5cm;
-    max-width: 5cm;
-    padding-top: 120px;
-}
 
 .card-body{
     padding-top: 1cm;

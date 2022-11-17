@@ -41,10 +41,29 @@ body{
     padding-top: 15px;
 }
 
+
+#about-me{
+    padding-left: 60px;
+}
+
+#info-personal{
+    padding-left: 1cm;;
+}
+
 .checked {
     color: rgba(255, 34, 0, 0.582);
   }
 
+  .card-title{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    text-decoration: underline;
+  }
 
+  p{
+    
+    font-size: large;
+    font-weight: 400;
+    
+  }
 
 
